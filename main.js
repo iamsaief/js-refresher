@@ -2,8 +2,8 @@ import './style.css';
 import javascriptLogo from './javascript.svg';
 import viteLogo from '/vite.svg';
 import { setupCounter } from './counter.js';
-// import './src/plus-minus';
-import './src/staircase';
+// @TODO: import file from ./src/
+import './src/asynchronous-behavior/async-await';
 
 document.querySelector('#app').innerHTML = `
   <div>

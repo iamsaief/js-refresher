@@ -1,1 +1,1 @@
-# js-refresher
+# JS Refresher 💪
